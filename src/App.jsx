@@ -1,8 +1,8 @@
 import React from 'react';
-import { GameProvider } from './context/GameContext';
-import CharacterSheet from './components/CharacterSheet';
-import QuestList from './components/QuestList';
-import Shop from './components/Shop';
+import { GameProvider } from './Context/GameContext';
+import CharacterSheet from './Components/CharacterSheet';
+import QuestList from './Components/QuestList';
+import Shop from './Components/Shop';
 
 export default function App() {
   return (
